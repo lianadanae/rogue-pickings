@@ -170,3 +170,16 @@ footer span {
 	color: #77a466;
 	font-size: 14px;
 }
+
+
+/* Menu Page */
+
+.falafel-image {
+    height: auto;
+    float:right;
+
+}
+
+.falafel-image img {
+    border: #77a466 3px solid;
+}
